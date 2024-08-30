@@ -1,4 +1,4 @@
 - 🧑 Felipe Glavich Perret
 - 🏫 Estudio secundario técnico en computación
-- 💻 Actualmente desarrollando proyectos de análisis de sistemas
+- 💻 Actualmente trabajando en proyectos para la materia análisis de sistemas
 - 🌱 Cuando encuentro tiempo libre experimento con mis propias cosas
