@@ -1,0 +1,64 @@
+/* styles.css */
+
+/* Reset básico */
+body, h1, h2, h3, p {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+/* Colores y fondo */
+body {
+    background-color: #f4f4f9; /* Color de fondo suave */
+    color: #333; /* Color de texto principal */
+    line-height: 1.6;
+}
+
+header {
+    background-color: #6c5ce7; /* Color de fondo del header */
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+main {
+    padding: 2em;
+}
+
+h1, h2 {
+    color: #333;
+}
+
+h2 {
+    margin-top: 1em;
+    border-bottom: 2px solid #6c5ce7; /* Línea decorativa */
+    padding-bottom: 0.5em;
+}
+
+.project {
+    background-color: #fff; /* Fondo de las tarjetas */
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 1em;
+    margin: 1em 0;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+footer {
+    background-color: #2d3436; /* Color de fondo del footer */
+    color: #dfe6e9;
+    text-align: center;
+    padding: 1em;
+    margin-top: 2em;
+}
+
+/* Enlaces */
+a {
+    color: #6c5ce7;
+    text-decoration: none;
+    transition: color 0.3s;
+}
+
+a:hover {
+    color: #4834d4;
+}
